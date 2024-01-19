@@ -26,6 +26,12 @@ export default function CreatePost() {
                     <option value="c++">C++</option>
                     <option value="C">C Programming</option>
                     <option value="c#">C#</option>
+                    <option value="s-lang">S-Lang</option>
+                    <option value="r">R</option>
+                    <option value="rust">Rust</option>
+                    <option value="ruby">Ruby</option>
+                    <option value="java">Java</option>
+                    <option value="dart">Dart</option>
                 </Select>
             </div>
             <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
