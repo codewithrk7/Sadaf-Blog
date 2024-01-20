@@ -122,7 +122,12 @@ export default function CreatePost() {
             <option value="rust">Rust</option>
             <option value="ruby">Ruby</option>
             <option value="java">Java</option>
-            <option value="dart">Dart</option>
+            <option value="machinelearning">Machine Learning</option>
+            <option value="css">CSS</option>
+            <option value="php">Php</option>
+            <option value="androiddevelopment">Android Development</option>
+            <option value="flutter">Flutter</option>
+            <option value="dsa">DSA</option>
           </Select>
         </div>
         <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
